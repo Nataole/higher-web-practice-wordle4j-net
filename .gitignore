@@ -25,5 +25,7 @@ hs_err_pid*
 replay_pid*
 
 out
+game.log
+stats.json
 *.iml
 /.idea/
